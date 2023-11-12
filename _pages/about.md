@@ -17,3 +17,7 @@ Research interests
 * Applied statistics
 * Game theory
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=YuanzhengLei.github.io)
+
+
+
