@@ -17,6 +17,6 @@ Research interests
 * Applied statistics
 * Game theory
 
-![Visitors](https://img.shields.io/badge/:badgeContent=YuanzhengLei.github.io)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYuanzhengLei%2Fyuanzhenglei.github.io%2Fedit%2Fmaster%2F_pages%2Fabout.md&label=VISTOR&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FYuanzhengLei%2Fyuanzhenglei.github.io%2Fedit%2Fmaster%2F_pages%2Fabout.md)
 
 
