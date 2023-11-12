@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Railway Engineering, Southwest Jiaotong University, Chengdu, China, 2019
+* M.S. in Transportation Planning and Management, Southwest Jiaotong University, Chengdu, China, 2022
+* Ph.D. student in Transportation Engineering, University of Maryland, College Park, USA, 2025/2026 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2022: Graduate Research Assistant
+  * Southwest Jiaotong University
+  * National United Engineering Laboratory of Integrated and Intelligent Transportation
+  * Supervisor: Professor Gongyuan Lu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - : Research Assistant
+  * University of Maryland, College Park
+  * Maryland Transportation Institute
+  * Maryland Transportation Research & Artificial Intelligence Laboratory (M-TRAIL)
+  * Supervisor: Professor Xianfeng Terry Yang
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +35,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
