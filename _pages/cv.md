@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Railway Engineering, Southwest Jiaotong University, Chengdu, China, 2019
-* M.S. in Transportation Planning and Management, Southwest Jiaotong University, Chengdu, China, 2022
-* Ph.D. student in Transportation Engineering, University of Maryland, College Park, USA, 2025/2026 (expected)
+* B.S. in Railway Engineering, [Southwest Jiaotong University, Chengdu](https://ctt.swjtu.edu.cn/), China, 2019
+* M.S. in Transportation Planning and Management, [Southwest Jiaotong University, Chengdu](https://ctt.swjtu.edu.cn/), Chengdu, China, 2022
+* Ph.D. student in Transportation Engineering, [University of Maryland](https://cee.umd.edu/), College Park, USA, 2025/2026 (expected)
 
 Research experience
 ======
