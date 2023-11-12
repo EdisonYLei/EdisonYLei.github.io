@@ -92,7 +92,7 @@ author:
   location         : "College Park, United States"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://https://scholar.google.com/citations?user=IsB0tpoAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=IsB0tpoAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yuanzheng-Lei-2"
   uri              :
@@ -102,20 +102,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/YuanzhengLei"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4156-4171"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
