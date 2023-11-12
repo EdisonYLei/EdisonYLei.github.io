@@ -12,4 +12,8 @@ I am a Ph.D. student of Transportation Engineering under the supervision of [Pro
 
 Research interests
 ======
+* Operations research
+* Optimization
+* Applied statistics
+* Game theory
 
