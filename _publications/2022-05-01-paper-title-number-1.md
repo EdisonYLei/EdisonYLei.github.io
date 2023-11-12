@@ -8,7 +8,6 @@ venue: 'Simulation Modelling Practice and Theory'
 paperurl: 'https://doi.org/10.1016/j.simpat.2022.102510'
 citation: 'Yuanzheng Lei, Gongyuan Lu, Hongxiang Zhang, etc. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://doi.org/10.1016/j.simpat.2022.102510)
 
