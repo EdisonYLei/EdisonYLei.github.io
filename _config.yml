@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yuanzheng Lei"
   avatar           : "profile.png"
-  bio              : "Yuanzheng Lei
-                      / Ph.D. student, Research Assistant
-                      / Department of Civil and Environmental Engineering
-                      / University of Maryland, College Park"
+  bio              : "Yuanzheng Lei <br>
+                      Ph.D. student, Research Assistant <br>
+                      Department of Civil and Environmental Engineering <br>
+                      University of Maryland, College Park <br>" 
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
