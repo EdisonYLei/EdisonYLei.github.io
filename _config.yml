@@ -91,7 +91,6 @@ author:
     College Park, MD 20742, United States <br>
   location         : "College Park, United States"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IsB0tpoAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yuanzheng-Lei-2"
@@ -108,11 +107,10 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yuanzhenglei/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4156-4171"
   pinterest        :
-  soundcloud       :
-  stackoverflow    : 
+  soundcloud       : 
   steam            :
   tumblr           :
   twitter          : 
