@@ -7,5 +7,5 @@ venue: 'International Journal of Rail Transportation'
 paperurl: 'https://doi.org/10.1080/23248378.2022.2109522'
 ---
 
-[Download paper here](https://doi.org/10.1080/23248378.2022.2109522)
+
 
