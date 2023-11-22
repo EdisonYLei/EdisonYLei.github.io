@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of Transportation Engineering under the supervision of [Prof Xianfeng Terry Yang](https://cee.umd.edu/clark/faculty/1706/Xianfeng-Terry-Yang) at University of Maryland.
+I am a Ph.D. student of Transportation Engineering under the supervision of [Prof Xianfeng Terry Yang](https://cee.umd.edu/clark/faculty/1706/Xianfeng-Terry-Yang) at University of Maryland, before I came to UMD, I have an excellent undergraduate and graduate journey in Chengdu under the supervision of [Prof Gongyuan Lu](https://faculty.swjtu.edu.cn/lugongyuan/en).
 
 Research interests
 ======
