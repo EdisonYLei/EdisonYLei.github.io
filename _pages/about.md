@@ -14,10 +14,10 @@ Research interests
 ======
 * Transportation
 * Operations research
-* Optimization
-* Applied statistics
+* Statistics
+* Econometrics
 * Game theory
-* Applied mathematics
+* Control theory
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYuanzhengLei%2Fyuanzhenglei.github.io%2Fedit%2Fmaster%2F_pages%2Fabout.md&label=VISTOR&countColor=%23263759)
 
