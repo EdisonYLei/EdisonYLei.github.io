@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuan-Zheng Lei - Homepage"
 title_separator          : "-"
-name                     : &name "Yuan-Zheng Lucian Lei"
+name                     : &name "Yuan-Zheng Lei"
 description              : &description "personal description"
 url                      : https://yuanzhenglei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "雷元争"
   avatar           : "Lei.jpg"
   bio: |
-    Yuanzheng Edison Lei <br>
+    Yuan-Zheng Lei <br>
     Ph.D. student, Research Assistant <br>
     University of Maryland, College Park <br>
     <br>
