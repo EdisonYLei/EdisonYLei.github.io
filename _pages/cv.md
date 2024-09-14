@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](https://github.com/YuanzhengLei/yuanzhenglei.github.io/blob/master/files/Academic_cv_YuanzhengLei.pdf)
+* [CV in PDF](https://github.com/YuanzhengLei/yuanzhenglei.github.io/blob/master/Academic_cv_YuanzhengLei.pdf)
 
 Education
 ======
