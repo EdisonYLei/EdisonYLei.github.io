@@ -27,7 +27,7 @@ Research experience
 * 2022 - : Research Assistant
   * University of Maryland, College Park
   * Maryland Transportation Research & Artificial Intelligence Laboratory (M-TRAIL)
-  * Supervisor: Professor Xianfeng Terry Yang
+  * Supervisor: Professor Terry Yang
   
 
 Publications
